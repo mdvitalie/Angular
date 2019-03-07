@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+nav{
+    background-color:darkcyan;
+    widows: 100%;
+    border-bottom: 1px solid #000;
+    padding: 15px 10px;
+
+}
+nav a{
+    color: darkgray;
+    font-size: 250%;
+    cursor: pointer;
+}
+
+nav a:hover{
+    color:#fff;
+}
